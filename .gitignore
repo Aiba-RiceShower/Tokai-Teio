@@ -1,0 +1,7 @@
+#WINDOWS
+*.bash_history
+*.git_history
+*.gitconfig
+*.ssh
+a
+*.viminfo
