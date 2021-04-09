@@ -1,4 +1,6 @@
 import requests
-url = "http://www.baidu.com"
-response = requests.ger=(url)
+url = "https://www.baidu.com"
+response = requests.get(url)
+print(type(response))
+print(type(response.text))
 print(response.text)
